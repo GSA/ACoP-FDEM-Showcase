@@ -1,1 +1,2 @@
-EMR Example with Pyspark querying google sheets
+- PySpark example querying and writing to same google sheets using Google Sheets API
+- Done in OCFO Prod EMR
