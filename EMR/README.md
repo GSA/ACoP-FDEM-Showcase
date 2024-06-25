@@ -1,2 +1,3 @@
-- PySpark example querying and writing to same google sheets using Google Sheets API
+- PySpark example querying and writing back to the same google sheets using Google Sheets API (updating sheet)
 - Done in OCFO Prod EMR
+- Note: must share file with the OCFO EMR service account to query
